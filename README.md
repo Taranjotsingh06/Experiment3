@@ -14,7 +14,7 @@ To implement client-side routing in React using React Router DOM and build a mul
 
 ---
 
-# 🔹 Experiment 3.1 — Basic Routing (Home & About)
+# Experiment 3.1 — Basic Routing (Home & About)
 
 ## Aim
 To create basic routing between Home and About pages using BrowserRouter, Routes and Route.
@@ -35,7 +35,7 @@ To create basic routing between Home and About pages using BrowserRouter, Routes
 
 ---
 
-# 🔹 Experiment 3.2 — Profile Page with Header
+# Experiment 3.2 — Profile Page with Header
 
 ## Aim
 To create a profile page with a header and navigation using Link.
@@ -56,7 +56,7 @@ To create a profile page with a header and navigation using Link.
 
 ---
 
-# 🔹 Experiment 3.3 — Dashboard Routing
+# Experiment 3.3 — Dashboard Routing
 
 ## Aim
 To add a dashboard page and enable navigation between profile and dashboard.
@@ -80,9 +80,4 @@ To add a dashboard page and enable navigation between profile and dashboard.
 ## Result
 Routing between multiple React components was successfully implemented without page reload.
 
----
 
-## Student Details
-Name: Taranjot Singh  
-UID: 23BAI70077  
-Course: B.E CSE (AI/ML)
